@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im looking to collaborate on projects related to web development, databases, and real-world problem solving—especially ideas that have social impact or scalability.<br>I’m looking for help with improving full-stack development skills, deployment (Cloudflare / hosting), and building production-level applications.<br>Ask me about my experience working in a team for the first time, building LPGChain, or handling databases independently.<br>Fun fact about me is that i like learning by building, not just studying.
+Im looking forward to collaborate on projects related to web development, python projects and improve problem solving skills.<br>I’m looking for help with improving full-stack development skills, deployment, ML Model Training Projects and building production-level applications.<br>Ask me about my experience working in a team for the first time, building LPGChain, or handling databases independently.<br>Fun fact about me is that i like learning by building, not just studying.
 
 
 ## 🌐 Socials:
